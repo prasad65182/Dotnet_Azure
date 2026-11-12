@@ -1,0 +1,15 @@
+/workspaces/Dotnet_Azure/HelloWorldApp/bin/Debug/net10.0/HelloWorldApp
+/workspaces/Dotnet_Azure/HelloWorldApp/bin/Debug/net10.0/HelloWorldApp.deps.json
+/workspaces/Dotnet_Azure/HelloWorldApp/bin/Debug/net10.0/HelloWorldApp.runtimeconfig.json
+/workspaces/Dotnet_Azure/HelloWorldApp/bin/Debug/net10.0/HelloWorldApp.dll
+/workspaces/Dotnet_Azure/HelloWorldApp/bin/Debug/net10.0/HelloWorldApp.pdb
+/workspaces/Dotnet_Azure/HelloWorldApp/obj/Debug/net10.0/HelloWorldApp.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Dotnet_Azure/HelloWorldApp/obj/Debug/net10.0/HelloWorldApp.AssemblyInfoInputs.cache
+/workspaces/Dotnet_Azure/HelloWorldApp/obj/Debug/net10.0/HelloWorldApp.AssemblyInfo.cs
+/workspaces/Dotnet_Azure/HelloWorldApp/obj/Debug/net10.0/HelloWorldApp.csproj.CoreCompileInputs.cache
+/workspaces/Dotnet_Azure/HelloWorldApp/obj/Debug/net10.0/HelloWorldApp.sourcelink.json
+/workspaces/Dotnet_Azure/HelloWorldApp/obj/Debug/net10.0/HelloWorldApp.dll
+/workspaces/Dotnet_Azure/HelloWorldApp/obj/Debug/net10.0/refint/HelloWorldApp.dll
+/workspaces/Dotnet_Azure/HelloWorldApp/obj/Debug/net10.0/HelloWorldApp.pdb
+/workspaces/Dotnet_Azure/HelloWorldApp/obj/Debug/net10.0/HelloWorldApp.genruntimeconfig.cache
+/workspaces/Dotnet_Azure/HelloWorldApp/obj/Debug/net10.0/ref/HelloWorldApp.dll
